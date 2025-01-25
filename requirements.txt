@@ -1,0 +1,4 @@
+pillow>=10.2.0
+pytesseract>=0.3.10
+pyttsx4>=3.1.0
+keyboard>=0.13.5
